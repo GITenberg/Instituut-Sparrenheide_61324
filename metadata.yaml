@@ -1,0 +1,31 @@
+_repo: Instituut-Sparrenheide_61324
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Rinke, Jan
+    aliases:
+    - Bram
+    - Rinke, Jan (Jan Frederik)
+    birthdate: 1863
+    deathdate: 1922
+    gutenberg_agent_id: '44420'
+    url: http://www.gutenberg.org/2009/agents/44420
+    wikipedia: https://nl.wikipedia.org/wiki/Jan_Rinke
+creator:
+  author:
+    agent_name: Abkoude, Chr. van
+    gutenberg_agent_id: '51361'
+    url: http://www.gutenberg.org/2009/agents/51361
+description: ''
+gutenberg_issued: '2020-02-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61324'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Instituut Sparrenheide
+url: http://www.gutenberg.org/ebooks/61324
